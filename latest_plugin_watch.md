@@ -1,6 +1,6 @@
 # Plugin Watch High Priority Report
 
-Generated at: 2026-04-30T03:48:20+00:00
+Generated at: 2026-05-01T03:59:39+00:00
 
 ## Notice
 
@@ -15,7 +15,24 @@ Generated at: 2026-04-30T03:48:20+00:00
 
 ## High priority
 
-### 1. HoRNet Graffio
+### 1. SSL SubGen
+
+- Priority: high
+- Local score: 100
+- Source count: 2
+- Sources: Computer Music Japan, Tokyo Plugin Press
+- Reasons: multiple sources and strong keep signal, sale or price signal detected, confirmed by 2 sources
+- Production effect: 低域が薄いKick/Bass素材のサブベース補強。Midtempo Bassで低域の重心を足す用途。ただしSub Bass生成そのものは既存環境でも代替可能。
+- Candidate role: SPECIAL support候補 / Low-end enhancement
+- Owned overlap level: 高い。既存の低域処理系、シンセ内サブ生成、EQ/サチュレーション処理と役割が重なる。
+- Replacement stance: CORE置き換えではない。既存SPECIALを置き換える候補ではなく、必要時の補助枠として比較する。
+- Recommended action: デモ確認。KickやBassの薄い素材に対して、既存手法より短時間で良い結果が出る場合のみ候補化。
+- Purchase stance: 即購入しない。セール期限が近くても、手持ちの低域処理で再現不能か確認してから判断。
+- URLs:
+  - [【5/1夕方まで】音の薄いトラックや録音の悪いキックやベースギターの低域を再構築する高品質サブベースジェネレーター、Solid State Logic「SSL SubGen」が40%OFF！](https://computermusic.jp/2026/05/ssl-subgen/)
+  - [4バンドで作るサブベース！オクターブ下の倍音で低域を補強 バンド毎にゲイン幅周波数調整 ソロ ミックスロック！SSL SubGen by Solid State Logicが40%OFF!4/30まで](https://tokyopluginpress.com/ssl-subgen/)
+
+### 2. HoRNet Graffio
 
 - Priority: high
 - Local score: 100
@@ -30,20 +47,3 @@ Generated at: 2026-04-30T03:48:20+00:00
 - Purchase stance: 無料なら取得。通常購入は不要寄り。
 - URLs:
   - [Get HoRNet Plugins Graffio multi-band distortion FREE for a limited time](https://bedroomproducersblog.com/2026/04/28/hornet-graffio-free-2/)
-
-### 2. Techivation Tilt EQ
-
-- Priority: high
-- Local score: 16
-- Source count: 2
-- Sources: Bedroom Producers Blog - News, Free Kontaktina
-- Reasons: free or limited-free high-signal candidate with sufficient local confidence, sale or price signal detected, free distribution signal detected, confirmed by 2 sources
-- Production effect: Tilt EQで明暗を素早く調整し、Driveで軽い倍音を足す用途。音作りよりも簡易トーン補正寄り。
-- Candidate role: 低優先SPECIAL support候補 / Tone tilt + light saturation
-- Owned overlap level: 高い。既存のEQ系CORE/CORE support、軽いサチュレーション系SPECIALで大半は代替可能。
-- Replacement stance: CORE置き換え不要。SPECIALとしても強い個性がなければ常用枠には入れない。
-- Recommended action: 無料なら取得してもよいが、優先検証は低い。通知上はHighでも、導入判断は保留寄り。
-- Purchase stance: 購入対象ではない。無料取得のみ。
-- URLs:
-  - [今月のDTMセール、新製品、期間限定無償配布情報まとめ(4/29 23:50大量更新)](https://www.freekontaktina.com/2020/05/5.html)
-  - [Techivation releases Tilt EQ, a FREE linear phase tilt equalizer with a Drive saturation control](https://bedroomproducersblog.com/2026/04/27/techivation-tilteq/)
