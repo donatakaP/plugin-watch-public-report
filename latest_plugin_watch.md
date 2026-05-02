@@ -1,6 +1,6 @@
 # Plugin Watch High Priority Report
 
-Generated at: 2026-05-01T08:02:32+00:00
+Generated at: 2026-05-02T03:33:21+00:00
 
 ## Notice
 
@@ -12,15 +12,23 @@ Generated at: 2026-05-01T08:02:32+00:00
 ## Summary
 
 - High priority candidates: 1
-- New: 1
+- New: 0
 - Changed: 0
-- Continuing: 0
+- Continuing: 1
 
 ## New
 
-### 1. [NEW] HoRNet Graffio
+- None
 
-- Diff status: NEW
+## Changed
+
+- None
+
+## Continuing
+
+### 1. [CONTINUING] HoRNet Graffio
+
+- Diff status: CONTINUING
 - Priority: high
 - Local score: 100
 - Source count: 1
@@ -34,11 +42,3 @@ Generated at: 2026-05-01T08:02:32+00:00
 - Purchase stance: 無料なら取得。通常購入は不要寄り。
 - URLs:
   - [Get HoRNet Plugins Graffio multi-band distortion FREE for a limited time](https://bedroomproducersblog.com/2026/04/28/hornet-graffio-free-2/)
-
-## Changed
-
-- None
-
-## Continuing
-
-- None
